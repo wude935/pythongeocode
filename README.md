@@ -1,6 +1,6 @@
 # PythonGeocode
 
-A script written to help convert a txt file of address to geocodes.
+A script written convert a txt file of addresses to geocodes.
 
 ## Installation
 
