@@ -11,5 +11,5 @@ Next, install geopy:
 
 ## Notes
 
-- Because Geopy uses APIs from other organizations, you may be rate limited or pay for more requests. This script uses the free API from Nominatim.
+- Because Geopy uses APIs from other organizations, you may be rate limited or need to pay for requests. This script uses the free rate limited API from Nominatim.
 - Geopy may error out or provide inaccurate values if the address is not formatted correctly. Try spelling out any abbreviations when inputing addresses.
